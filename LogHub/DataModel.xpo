@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3d47be44-dc97-424a-aa50-95fd45a037cd" dbName="nongnghiep" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgcHJvdmlkZXJLZXk9Ik15U3FsIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0ibG9jYWxob3N0IiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9Im5vbmduZ2hpZXAiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InVzZXJpZCIgdmFsdWU9InJvb3QiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iYWlvbjQzIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJyZWFkIG9ubHkiIHZhbHVlPSIxIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJnZW5lcmF0ZUNvbm5lY3Rpb25IZWxwZXIiIHZhbHVlPSJ0cnVlIiAvPg0KICA8L3BhcmFtZXRlcj4NCjwvRGV2RXhwcmVzc1hwb0dlbmVyYXRvclNldHRpbmdzPg==" namespace="LogHub.NongNghiep" connectionString="XpoProvider=MySql;server=localhost;user id=root; password=aion43; database=nongnghiep;persist security info=true;CharSet=utf8;" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="withLowercase" fieldNamePrefix="_" generateDefaultConstructors="false" useNameOf="true" createdInVersion="21.2.6.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="21.2.6.0" name="NongNghiep" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="eb3086ff-4c2b-485d-9aa3-510096653305">
+      <comment Id="6901b300-3477-4685-b213-114c8dece5c5" text="Cannot generate a persistent property for the 'created_at' column of the 'timestamp' type. The type is not supported.;&#xD;&#xA;Cannot generate a persistent property for the 'updated_at' column of the 'timestamp' type. The type is not supported.;&#xD;&#xA;The 'PRIMARY' index is ignored, because 'id' is a key" name="LogsComment">
+        <subjects>
+          <commentReferencesSubjects Id="2d8abceb-2680-44b8-abb9-243bfb6cecf4">
+            <xpObjectMoniker Id="1c0c0e27-abb0-4e33-b312-da85894554e0" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="e64aac24-e72b-4d87-8e1d-1ba5384c122a">
+      <xpObject Id="1c0c0e27-abb0-4e33-b312-da85894554e0" name="Logs" baseClass="XPLiteObject" userFileName="Logs" designerFileName="Logs.Designer" className="Logs" initialName="Logs" virtualBaseClass="XPLiteObject" persistent="logs" virtualName="Logs">
+        <fields>
+          <generalXpObjectHasFields Id="eaf1af8b-a373-4122-8684-9ccec36fbf7a">
+            <field Id="09a9ff0d-68e3-406e-88f9-8bc48e20b1d8" name="Id" columnType="UInt64" initialName="Id" key="true" persistent="id" virtualColumnType="UInt64" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1a720eb6-9666-461a-8c7e-4c7aa7fee50b">
+            <field Id="7e7414cc-cf7e-493e-ab4a-3586660a9dc7" name="UserId" columnType="Int32" initialName="UserId" persistent="user_id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f4fc7533-7783-4268-b2c4-997e79c1b255">
+            <field Id="47c3a795-48a7-440e-8c15-264fcebdc5bf" name="StationId" initialName="StationId" persistent="station_id" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="64" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="689b2dcb-f0ef-4370-baba-e7061e2b7ba9">
+            <field Id="13973722-41af-46d5-810c-0f481995459c" name="Code" initialName="Code" persistent="code" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="99d0b7c5-d251-4d63-aa76-cc365f23f6e8">
+            <field Id="81f7df54-58bd-477b-b664-bd66a79c1260" name="Data" initialName="Data" persistent="data" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="912227f0-bf1a-4100-8ca6-2c7effc84e8f">
+            <field Id="0123b217-afe6-420a-a2de-882337db67cb" name="LogTime" columnType="DateTime" initialName="LogTime" persistent="log_time" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
